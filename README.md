@@ -1,21 +1,21 @@
 Project APPIKON
 =============
 
-**A Simple Web-based iOS App icon in real device preview solution**  
+**A Simple iOS App icon preview solution**  
 
 
 
 WHAT IS APPIKON
 -------------
 
-A quick and elegant way let visual designers can check App icons on device.
+A quick and elegant way let visual designers can preview App icons on real devices.
 
 
 
 HOW TO USE
 ----------------
 
-Creating each size of app icon, update and check.
+Creating each size of app icon, upload and review.
 
 1. DESIGN
    * Create your icon
@@ -24,7 +24,7 @@ Creating each size of app icon, update and check.
 2. UPLOAD
    * Upload all files to a public space such as Dropbox's public folder
 
-3. PREVIEW
+3. REVIEW
    * Open the URL on mobile Safari
    * "Add to Home Screen"
 
